@@ -1,7 +1,7 @@
 Ryan Durnan Lab7 Submission
 
 This lab required me to look up 5 different algorithms for sorting a vector of numbers 
-and implement them in C++. With everything built, I then found out how long the vector 
+and implement said algorithms in C++. With everything built, I then found out how long the vector 
 could be for each function to sort in about 4 seconds. After that, I recorded how long it 
 took for each function to finish sorting vectors double/quadruple the original length. 
 Based on the timings, I finished by predicting how long it would take each function to 
